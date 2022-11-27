@@ -13,3 +13,11 @@ pip install -r requirements.txt
 ```bash
 python main.py
 ```
+### Step 3  - Check git version
+git --version
+
+### Step 4 - Check python version
+python --version
+
+### read dataset from url
+wget https://raw.githubusercontent.com/avnyadav/sensor-fault-detection/main/aps_failure_training_set1.csv
